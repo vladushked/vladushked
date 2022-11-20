@@ -1,4 +1,4 @@
-### Hi there 👋
+### Contacts
 
 <div id="badges">
   <a href="https://t.me/vladushked">
@@ -10,7 +10,7 @@
 </div>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools
 
 <div>
   <img src="https://avatars.githubusercontent.com/u/547448?s=200&v=4" title="ROS" **alt="ROS" height="40"/>
@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" **alt="python" height="40"/>
 </div>
 
-### :fire: My Stats :
+### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladushked&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
